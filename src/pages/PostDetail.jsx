@@ -22,7 +22,9 @@ export default function PostDetail() {
       <button onClick={() => navigate("/")}>Home</button>
 
       <h1>{post.title}</h1>
-      <p>{post.content}</p>
+      {post.content.map((paragraph, index) => (
+  <p key={index}>{paragraph}</p>
+))}
     </div>
   );
 }
