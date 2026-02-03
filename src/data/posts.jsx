@@ -1,6 +1,6 @@
 export const posts = [
   {
-    id: "1",
+    id: "3",
     title: "Life as a Computer Science Student",
     excerpt:
       "Computer science students juggle algorithms, deadlines, and endless debugging...",
@@ -16,11 +16,15 @@ export const posts = [
       "Understanding networking helps you grasp how data flows across the internet. Concepts like IP addressing, routing, and protocols are essential for software engineers and network engineers alike."
   },
   {
-    id: "3",
+    id: "1",
     title: "My Experience Learning at AltSchool",
     excerpt:
-      "AltSchool provides a structured and practical approach to tech education...",
+      "When I started my Altschool journey, I thought the program would be an easy...",
     content:
-      "AltSchool focuses on real-world skills, mentorship, and project-based learning. It helps students bridge the gap between theory and industry expectations."
+      `When I started my Altschool journey, I thought the program would be an easy, minimal effort adventure lol. This is because the first semester was relatively easy for me, perhaps because I am a graduate of Computer Science.
+
+But the second semester humbled me. React proved to be a challenge, not because it's inherently difficult, but because it demands a deep understanding of JavaScript. 
+
+It's been an interesting journey filled with learning new ways to tackle problem.`
   }
 ];
