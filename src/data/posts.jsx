@@ -1,19 +1,24 @@
 export const posts = [
   {
     id: "3",
-    title: "Life as a Computer Science Student",
+    title: "I found my talent in Computer Science",
     excerpt:
-      "Computer science students juggle algorithms, deadlines, and endless debugging...",
+      "Funny thing about my foray into the world of computing is that I never thought of studying computer science ...",
     content:
-      ["Being a computer science student involves constant learning. From writing your first Hello World program to building full applications, the journey is challenging but rewarding."]
+      ["Funny thing about my foray into the world of computing is that I never thought of studying computer science initially, but somehow I ended up studying and graduating from the course.",
+        "With the benefits of hindsight, if I am faced with the same decision, I will choose computer science in a heartbeat, every day and every time.",
+          "Computer Science teaches problem-solving, algorithms, and logical thinking, which perfectly describes the kind of stuff I love."]
   },
   {
     id: "2",
-    title: "Why Networking Skills Matter in Tech",
+    title: "Lessons from Huawei ICT Competition",
     excerpt:
-      "Networking is more than cables and routers—it’s the backbone of the internet...",
+      "Huawei ICT Competition is an annual global ICT competition ...",
     content:
-      ["Understanding networking helps you grasp how data flows across the internet. Concepts like IP addressing, routing, and protocols are essential for software engineers and network engineers alike."]
+      ["Huawei ICT Competition is an annual global ICT competition with participation from countries all-around the world. I was one of the participants representing Nigeria in the 2025/2026 edition of the competition, and I made it to national final stage of the competition. Here are some lessons, especially for anyone preparing to participate:",
+        "1. Start early: It is true what people say, those who fail to plan, plan to fail. Huawei competition is hard and competitive (more than 150k students participated in the 2025 edition), so it takes good preparation to standout.",
+         "2. Collaborate: It doesn't matter if you are Vin Cerf and Danny Cohen rolled into one, if you don't work with others, you chances of any success is near zero. This is because participants are evaluate on a team basis.",
+           "3. Learning space is your primary resource: you may find it tempting to use other resources to complement your learning, that is actually good, but as far as Huawei Competition is concerned, the resources provided in the learning space is your best option."]
   },
   {
     id: "1",
